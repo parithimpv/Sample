@@ -1,0 +1,75 @@
+    1  sudo apt update
+    2  sudo apt install default-jdk -y
+    3  sudo wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
+    4  echo deb http://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/sources.list.d/jenkins.list
+    5  sudo apt update
+    6  sudo apt install jenkins -y
+    7  apt install jenkins -y
+    8  sudo apt install jenkins -y
+    9  sudo echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+   10  exit
+   11  sudo echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list
+   12  sudo su -
+   13  sudo apt update
+   14  sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list
+   15  history
+   16  sudo apt install default-jdk -y
+   17  sudo wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
+   18  sudo echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list
+   19  sudo apt update
+   20  sudo apt install openjdk-8-jre-headless -y
+   21  sudo wget -q -O - https://pkg.jenkins.io/debian/jenkins-ci.org.key | sudo apt-key add -
+   22  echo deb https://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/sources.list.d/jenkins.list
+   23  sudo apt update
+   24  sudo apt install jenkins -y
+   25  service jenkins status
+   26  cat /var/lib/jenkins/secrets/initialAdminPassword/
+   27  cat /var/lib/jenkins/
+   28  sudo su -
+   29  sudo su - 
+   30  cd var/lib/jenkins/workspace/
+   31  cd /var/lib/jenkins/workspace/
+   32  ls -lrt
+   33  cd /tmp
+   34  mkdir new
+   35  cd new
+   36  hello >index.html
+   37  hello > index.html
+   38  work > index.html
+   39  pwd
+   40  cd../
+   41  cdd ../
+   42  cd ../
+   43  vi deploy.sh
+   44  chmod 777 deploy.sh
+   45  ped
+   46  pwd
+   47  cd new
+   48  chmod 777 deploy.sh
+   49  chmod 777 /deploy.sh
+   50  chmod 777 deploy.sh
+   51  cd ../
+   52  chmod 777 deploy.sh
+   53  ls -lrt
+   54  cd deploy.sh
+   55  cat deploy.sh
+   56  cd deploy.sh
+   57  chmod 777 deploy.sh
+   58  vi deploy.sh
+   59  chmod 777 deploy.sh
+   60  history
+   61  cd batch7
+   62  history
+   63  git branch -a
+   64  git pull
+   65  git branch -a
+   66  git pull
+   67  git
+   68  cd batch7
+   69  git branch -a
+   70  git clone https://github.com/parithimpv/Batch7.git
+   71  ls -lart
+   72  git branch -a
+   73  git add https://github.com/parithimpv/Batch7.git
+   74* git add batchttps://github.com/parithimpv/Batch7.git
+   75  history > b7-git
